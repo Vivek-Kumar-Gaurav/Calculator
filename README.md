@@ -14,7 +14,7 @@ This project is a simple web-based calculator built using HTML, CSS, and JavaScr
 1. Enter numbers by clicking the buttons on the calculator.
 2. Perform operations by clicking the operator buttons (`+`, `-`, `*`, `/`).
 3. Click `=` to see the result.
-4. Click `DEL` to clear the current input and start a new calculation.
+4. Click `Ac` to clear the current input and start a new calculation.
 
 ## Project Structure
 ```
