@@ -37,7 +37,7 @@ This file contains the logic for the calculator. It uses JavaScript to handle bu
 ## Contact
 Your Name - [vivek97921@gmail.com](mailto:vivek97921@gmail.com)
 
-Project Link: [[https://github.com/Vivek-Kumar-Gaurav/calculator](https://github.com/Vivek-Kumar-Gaurav/calculator)](https://calculator-bmuhvhggh-vivek-kumar-gauravs-projects.vercel.app/)
+Project Link: (https://calculator-bmuhvhggh-vivek-kumar-gauravs-projects.vercel.app/)
 
 
 ---
